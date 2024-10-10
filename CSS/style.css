@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.thing{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#Person{
+    font-weight: 900;
+}
+
+#Button{
+    background-color: green;
+    color: white;
+}
+
+.container{
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#Button{
+    cursor: pointer;
+}
